@@ -73,7 +73,7 @@ It’s interactive, visual, and made to help **non-technical teams understand th
 
 - 🎓 Project guided by: *Coursera – Microsoft Power BI Data Analyst Professional Certificate*
 - 🛠 Built by: *Ananth Ajith*, a career-switcher exploring the world of data through curiosity and commitment.
-- 🧠 Tools used: Power BI Desktop, DAX, Power Query
+- 🧠 Tools used: Power BI Desktop, DAX, Power Query, Excel
 - 🌱 Still learning every day — and excited to keep growing in the data analytics field.
 
 ---
