@@ -20,18 +20,19 @@ The project challenged me to apply core data analytics skills — from data clea
 
 ## 📋 Business Questions & Analysis Scenarios
 
-This project was structured around real-world business questions to simulate a corporate analytics case study. Below are the analysis scenarios I tackled using Power BI and DAX:
+The Tailwind Traders project was designed to assess how well analytical tools can support real business decision-making. The dashboard answers key questions across sales, profit, and product performance:
 
-1. Total Sales by Top 10 Customers  
-2. Monthly Sales Trend  
-3. Top 10 Products  
-4. Regional Sales Distribution  
-5. Customer Segmentation by Type  
-6. Cost Analysis of Products  
-7. Monthly Sales Trends by Customer Type  
-8. Top 10 Customers by Revenue  
-9. Contribution Analysis of HPL Codes  
-10. Top 10 HPLs by Average Monthly Sales Quantity  
+1. 📈 What is the overall revenue, gross profit, and year-to-date (YTD) performance?
+2. 🌍 Which countries contribute the most to total revenue and profit margin?
+3. 💸 What are the most profitable and least profitable products?
+4. 🛒 How does stock level compare with quantity purchased and sold?
+5. 🎯 What is the distribution of loyalty points across regions?
+6. 🕒 How do median sales fluctuate over time?
+7. 🔢 What is the breakdown of net revenue and profit by product category?
+8. 📊 How do yearly profit margins trend over time?
+9. 🧮 What is the correlation between revenue metrics and time periods?
+10. 🧠 How can we use these insights to make pricing, inventory, or marketing decisions?
+
 
 ---
 
