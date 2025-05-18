@@ -1,84 +1,83 @@
-# PowerBi-DataAnalyst-Capstone-Project
-Power BI dashboard showcasing global sales &amp; profit analysis for Tailwind Traders—data prep, modeling, DAX measures, &amp; visual insights.
+# 📊 Capstone Sales Report – Power BI + DAX (Tailwind Traders)
 
-# 📊 Power BI Capstone Project – Microsoft Data Analyst Professional Certificate
-
-![Tool](https://img.shields.io/badge/Built%20With-Power%20BI-yellow?logo=powerbi&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![DAX](https://img.shields.io/badge/DAX-Used-success)
-![Learning Path](https://img.shields.io/badge/Learning%20Journey-Career%20Switcher-blueviolet)
-![Made by](https://img.shields.io/badge/By-Ananth%20Ajith-lightgrey)
+![Power BI](https://img.shields.io/badge/Visualization-Power%20BI-yellow?logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Measures-success)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Certificate](https://img.shields.io/badge/Coursera-Microsoft%20Power%20BI%20Capstone-blue)
+![Author](https://img.shields.io/badge/Built%20by-Ananth%20Ajith-lightgrey)
 
 ---
 
-## **1. How the Project Came About**
+## 🧠 Project Summary
 
-This project is the final capstone from the *Microsoft Power BI Data Analyst Professional Certificate* on Coursera. It was designed to test whether learners can apply Power BI in a real-world business context — not just by understanding the tool, but by actually building an end-to-end analytical report.
+This capstone project was built as part of the **Microsoft Power BI Data Analyst Professional Certificate** on Coursera. It simulates a real-world business scenario for **Tailwind Traders**, where I analyzed global sales and profitability using **Power BI**, **DAX**, and **Power Query**.
 
-After learning the basics of Power BI, DAX, and data modeling, this project felt like the perfect way to tie it all together and show what I could do.
+The project challenged me to apply core data analytics skills — from data cleaning and modeling to building a professional dashboard that offers deep business insights.
 
----
-
-## **2. Motivation**
-
-Coming from a design background, I’ve always enjoyed storytelling — but over time, I became more drawn to stories **told through data**.
-
-I wanted to switch careers into data analytics, and this project gave me a great opportunity to:
-- Apply the skills I learned in a business scenario
-- Create something portfolio-worthy
-- Combine creativity with logic
-
-It was my way of proving to myself that I’m not just learning theory — I’m capable of solving problems with data.
+> 📌 Tools Used: Power BI Desktop, Power Query, Excel, DAX
 
 ---
 
-## **3. Challenges**
+## 🎯 Objectives
 
-Like any real-world project, this one wasn’t without its hurdles.
-
-- **Data Cleaning**: The dataset had raw columns that needed transformation before they could be useful.
-- **DAX Formulas**: Writing calculated measures like Net Revenue, Year-to-Date Profit, and Cumulative Sales % pushed me to understand the nuances of DAX.
-- **Visual Design**: As someone who values layout and clarity, I spent time making sure the dashboard wasn’t just functional, but intuitive and easy to read.
-- **Cross-page Filters**: Setting up interactions so slicers affected visuals across multiple pages took some extra tweaking.
-
-But each of these challenges helped me level up.
+- Clean and transform raw Excel files using Power Query
+- Build a semantic model with appropriate relationships
+- Create calculated columns and **DAX measures** (e.g., Net Profit, YTD Sales)
+- Develop a multi-page Power BI dashboard with slicers and cross-filters
+- Translate raw data into actionable executive insights
 
 ---
 
-## **4. Problem It Hopes to Achieve**
+## 🗂️ Project Structure
 
-The report aims to help businesses:
-- Understand sales and profit trends across countries
-- Spot high-performing products and customer loyalty patterns
-- Track revenue by product and purchase behavior over time
-
-In other words, it turns data into insight — helping teams make more informed decisions quickly.
-
----
-
-## **5. What is the Intended Use**
-
-The dashboard is built for business users — especially those in **sales**, **marketing**, or **finance** — who want a clear view of what’s going on.
-
-Some real use cases could include:
-- Monthly reviews of product and region performance
-- Tracking loyalty and retention by geography
-- Identifying which products to scale or optimize
-
-It’s interactive, visual, and made to help **non-technical teams understand the story in the data**.
+| Section | Description |
+|---------|-------------|
+| [📄 Tailwind Traders Report (PDF)](./Dashboard/Tailwind%20Traders%20Report.pdf) | Final dashboard overview |
+| [📊 Profit Overview (PNG)](./Report/Profit_Overview.png) | Profit visuals from the report |
+| [📈 Sales Overview (PNG)](./Report/Sales_Overview.png) | Sales performance page |
+| [📂 Raw Data](./Data) | Includes Excel files: TailwindProject, Purchases, Countries |
+| [📘 About the Project](./Docs/About-Project.pdf) | Background and project explanation |
+| [📚 Project Overview](./Docs/Overview.pdf) | Summarized insights and features |
 
 ---
 
-## **6. Credits**
+## 🔍 Key Highlights
 
-- 🎓 Project guided by: *Coursera – Microsoft Power BI Data Analyst Professional Certificate*
-- 🛠 Built by: *Ananth Ajith*, a career-switcher exploring the world of data through curiosity and commitment.
-- 🧠 Tools used: Power BI Desktop, DAX, Power Query, Excel
-- 🌱 Still learning every day — and excited to keep growing in the data analytics field.
+### 📊 Sales & Profit Insights
+- Visual breakdown of **revenue and profit** by region, segment, and product line
+- Deep dive into high- and low-performing product categories
+
+### 🧮 DAX Measures & Modeling
+- Created custom KPIs: *Net Revenue*, *YTD Profit*, *Cumulative Sales%*
+- Applied **data normalization** and relationship modeling
+
+### 🧠 Business Use Cases
+- Designed for use by **sales**, **marketing**, and **finance teams**
+- Built to support *monthly business reviews*, *customer retention tracking*, and *regional performance analysis*
 
 ---
 
-> Thanks for reading! If you're also learning or switching careers — keep going. Every project gets you closer.
+## ⚡ Dashboard Features
 
+- Dynamic KPI cards for total sales, profit, and customer base
+- Slicers for geography, customer segment, and product category
+- Multi-page navigation (Sales, Profit, Product Breakdown)
+- Clear visual hierarchy for storytelling and insight delivery
 
+---
 
+## 🙋‍♂️ About Me
+
+I'm **Ananth Ajith**, a designer-turned-analyst passionate about bridging creative thinking and data-driven decision-making. This capstone project reflects my ability to build effective dashboards, solve business problems, and communicate findings to stakeholders.
+
+---
+
+## 📄 License & Credits
+
+- Project guided by: *Coursera – Microsoft Power BI Data Analyst Certificate*
+- Data is fictional and used for educational purposes only
+- Dashboard created in **Power BI Desktop** as part of a professional portfolio
+
+---
+
+> 🚀 Dive into the visuals, explore the report, and view how insights evolve from raw data to executive storytelling!
