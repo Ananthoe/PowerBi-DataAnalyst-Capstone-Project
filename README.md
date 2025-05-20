@@ -56,6 +56,8 @@ The Tailwind Traders project was designed to assess how well analytical tools ca
 | [📂 Raw Data](./Data) | Includes Excel files: TailwindProject, Purchases, Countries |
 | [📘 About the Project](./Docs/About-Project.pdf) | Background and project explanation |
 | [📚 Project Overview](./Docs/Overview.pdf) | Summarized insights and features |
+| [📂 Tailwind Traders Report.pbix](./Dashboard/Tailwind%20Traders%20Report.pbix) | Fully interactive Power BI dashboard |
+
 
 ---
 
