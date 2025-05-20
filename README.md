@@ -50,7 +50,7 @@ The Tailwind Traders project was designed to assess how well analytical tools ca
 
 | Section | Description |
 |---------|-------------|
-| [📂 Tailwind Traders Report.pbix](./Dashboard/Tailwind%20Traders%20Report.pbix) | Fully interactive Power BI dashboard |
+| [📄 Tailwind Traders Report (PDF)](./Dashboard/Tailwind%20Traders%20Report.pdf) | Final dashboard overview |
 | [📊 Profit Overview (PNG)](./Report/Profit_Overview.png) | Profit visuals from the report |
 | [📈 Sales Overview (PNG)](./Report/Sales_Overview.png) | Sales performance page |
 | [📂 Raw Data](./Data) | Includes Excel files: TailwindProject, Purchases, Countries |
