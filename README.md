@@ -50,7 +50,7 @@ The Tailwind Traders project was designed to assess how well analytical tools ca
 
 | Section | Description |
 |---------|-------------|
-[📄 Tailwind Traders Report (PDF)](./Report/Tailwind%20Traders%20Report.pdf)
+[📄 Tailwind Traders Report (PDF)](./Report/Tailwind%20Traders%20Report.pdf) | View Dashboard as PDF |
 | [📊 Profit Overview (PNG)](./Report/Profit_Overview.png) | Profit visuals from the report |
 | [📈 Sales Overview (PNG)](./Report/Sales_Overview.png) | Sales performance page |
 | [📂 Raw Data](./Data) | Includes Excel files: TailwindProject, Purchases, Countries |
